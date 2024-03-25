@@ -11,7 +11,7 @@
         "pictures": ["picture01.jpg", "picture02.jpg"]
       },
       {
-        "type": "Achterstallig onderhoud opnemen",
+        "type": "Include overdue maintenance",
         "location": "2 Charing Cross Road",
         "type_of_maintenance": "electricity",
         "acute_action_required": "Yes",
@@ -29,7 +29,7 @@
         "pictures": ["foto4.jpg"]
       },
       {
-        "type": "Modificaties inventariseren",
+        "type": "Wijzigingen inventariseren",
         "modifications": "modification_132.pdf",
         "location": "4 Bricklane",
         "performed by": "tenant",
